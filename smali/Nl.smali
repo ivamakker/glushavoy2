@@ -1,0 +1,14 @@
+.class public interface abstract LNl;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# virtual methods
+.method public abstract a(Ljava/util/concurrent/CancellationException;)V
+.end method
+
+.method public abstract h(Lj6;)Ljava/lang/Object;
+.end method
+
+.method public abstract i()Ljava/lang/Object;
+.end method
